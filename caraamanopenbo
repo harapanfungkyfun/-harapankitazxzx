@@ -5,7 +5,7 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "https://caraamanopenbo.blogspot.com",
+"HOMEURL" : "https://duniamalam.com",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "Server Ready . . .",
@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -63,8 +63,8 @@
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "",
 
-"APPLOVIN_BANNER_MAX_ID" : "",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "",
+"APPLOVIN_BANNER_MAX_ID" : "bf87d800b64d50de",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "685ba4a72d577310",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
