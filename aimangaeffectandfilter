@@ -5,7 +5,7 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "https://aimangaeffectandfilter.blogspot.com",
+"HOMEURL" : "https://animefilter.com",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "Server Ready . . .",
@@ -63,8 +63,8 @@
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "",
 
-"APPLOVIN_BANNER_MAX_ID" : "",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "",
+"APPLOVIN_BANNER_MAX_ID" : "b47af20a75fd12ae",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "32e47bd1f51570ae",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
