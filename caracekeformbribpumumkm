@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -26,11 +26,11 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
-"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
-"PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "5",
+"INTER_COUNT" : "15",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -42,9 +42,9 @@
 
 "STARTAPPID" : "kosong",
 
-"ADMOB_BANNER" : "kososng",
-"ADMOB_INTER" : "kosong",
-"ADMOB_NATIV" : "kosong",
+"ADMOB_BANNER" : "ca-app-pub-6191020182885578/1209157814",
+"ADMOB_INTER" : "ca-app-pub-6191020182885578/8993684034",
+"ADMOB_NATIV" : "ca-app-pub-6191020182885578/8512932768",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
